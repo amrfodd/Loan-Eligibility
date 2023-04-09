@@ -11,3 +11,6 @@ We will build a classification model to predict if an applicant should get a loa
 Language: Python
 
 Libraries: Pandas, numpy, Smote, sklearn, H2o
+
+###### Source
+www.projectpro.io
